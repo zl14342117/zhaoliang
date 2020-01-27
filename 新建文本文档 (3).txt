@@ -1,0 +1,11 @@
+
+Javascript 、HTML5、CSS3、Ajax、canvas
+熟练JQuery等主流库的运用
+熟练掌握Ajax，熟练使用JSON进行数据传输
+熟练制作响应式页面
+熟练使用vue框架进行网站开发
+熟练使用bootstrap框架进行网站开发
+熟悉nodejs开发
+了解php,熟练mysql实现增删改查
+理解http协议，以及cookie生命周期
+熟悉Webstorm、sublime Text编译工具的使用
